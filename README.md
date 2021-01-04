@@ -1,5 +1,5 @@
 ## Minesweeper
-Project for CSC 210 - Assembler Programming with Michael Vulis at the City College of New York.
+Project for CSC 210 - Assembler Programming with Professor Michael Vulis at the City College of New York.
 ## About The Project
 - Use assembly language 16-bit tasm to create minesweeper.
 - Run the application using DOSbox.
